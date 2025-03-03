@@ -1,0 +1,142 @@
+# This is the main configuration file for AxolotlSpigot.
+# If you need help with the configuration or have any questions related to AxolotlSpigot,
+# contact the developer. Some options, primarily those under the entity
+# category, are for debugging purposes only.
+
+optimize-natural:
+  account-for-afk: true
+  only-underground: false
+  mob-ai: true
+  mob-processing: true
+  y-tolerance: 25
+allow-teleportation-with-passengers: false
+async-pathfinding:
+  enabled: true
+  max-threads: 0
+  keepalive: 60
+  disabled-entity-types: []
+settings:
+  blocks:
+    barrel:
+      rows: 3
+    ender_chest:
+      use-permissions-for-rows: false
+      six-rows: false
+better-golem-farms:
+  enabled: true
+  ticks: 400
+call-item-overflow-event: false
+check-light-for-snow: false
+check-light-for-grass: false
+optimize-chunk-sending:
+  threads: 5
+  enabled: true
+disable-footsteps: true
+iron-golem:
+  disable-stages: true
+disable-mob-collisions: true
+disable-noteblock-updates: false
+disable-tripwire-updates: false
+disable-village-goals-for-spawner-hostiles: true
+load-chunks:
+  enderpearls: false
+  falling-blocks: false
+  tnt: false
+  tridents: false
+entity:
+  ticks-between-collisions: 5
+  ticks-between-entity-fluid-updates: 2
+  ticks-between-line-of-sight-refresh: 10
+  ticks-between-optimized-inventory-refresh: 40
+  ticks-between-general-path-creation: 4
+  ticks-between-entity-water-move-checks: 4
+  ticks-between-collision-checks: 1
+  ticks-between-slow-mob-collision-checks: 1
+  optimize-entity-movement: true
+  compensation: true
+  activation-range-delay: 3
+  ticks-between-entity-despawn-checks: 7
+  ticks-between-entity-stuck-damage-check: 4
+  ticks-between-entity-water-checks: 4
+  entities-create-water-splash-particles: false
+  pick-up-items:
+    enabled: true
+    zombies-and-skeletons-bypass: true
+  item:
+    ticks-between-merge-search: 40
+    ticks-between-moving-merge-search: 5
+    disable-merge-check-on-move: true
+optimized-entity-tracking:
+  threads: 5
+  enabled: true
+  disable-fake-players: false
+spawner-mob-ai:
+  ignore-spigot-nerf-spawner-mobs-setting: true
+  strip-natural-spawner-ai: false
+  strip-placed-spawner-ai: true
+  strip-trial-spawner-ai: false
+treat-as-queue-hub: false
+lava-catches-blocks-on-fire: false
+limit-mid-tick-tasks: true
+limit-passive-mobs: true
+mob:
+  mob-max-no-damage-ticks: 20
+  player-max-no-damage-ticks: 20
+  fire-and-lava-max-no-damage-ticks: 20
+  rod-max-no-damage-ticks: 20
+  show-death-particles: false
+npc-speed-check: false
+only-players-push-entities: true
+only-tick-items-in-hand: true
+optimize-attributes: true
+optimize-chunk-holders: true
+optimize-entity-spawning: true
+optimize-equipment: true
+optimize-freeze: true
+optimize-hoppers: true
+optimize-leaves: true
+optimize-liquid: true
+optimize-maps: true
+optimize-minecarts: true
+optimize-player-movement: true
+optimize-player-stats: true
+optimize-poses: true
+optimize-precipitation: true
+optimize-projectiles: true
+optimize-spawn-checks: true
+optimize-speed: true
+optimize-suffocation-checks: true
+optimize-tile-entities: true
+water:
+  optimize-water: true
+  optimize-flow: true
+optimize-weather: true
+recursively-tick-multiple-passengers: false
+disable-noteblock-functionality: false
+optimize-entity-scheduler: true
+spawner:
+  use-less-random-spawn-position: false
+  spawner-particles: false
+  min-spawn-delay: 200
+  max-spawn-delay: 800
+  spawn-count: 4
+  max-nearby-entities: 6
+  required-player-range: 16
+  spawn-range: 4
+  ignore-spawn-rules: true
+  checks:
+    light-level-check: false
+    spawner-max-nearby-check: true
+    check-for-nearby-players: true
+    spawner-block-checks: false
+    water-prevent-spawn-check: false
+  initial-vertical-velocity: -1.0
+  use-saved-locations: false
+tick-item-frame-maps: true
+tick-skipping:
+  cactus: 1
+  spawners: 1
+tps-graph: true
+use-old-knockback-resistance: false
+improve-villager-farms: false
+config-version: 1

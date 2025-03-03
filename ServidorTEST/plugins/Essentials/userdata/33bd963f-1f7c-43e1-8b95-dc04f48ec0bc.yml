@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740956453644
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740958352126
+  login: 1740953948365
+money: '0'
+last-account-name: Fixoski
+logoutlocation:
+  world: aff81a4b-e969-491c-b15c-a48546ba67b8
+  world-name: SkyPvp
+  x: 328.30000001192093
+  y: 137.0
+  z: 1040.6696701420394
+  yaw: 101.9998779296875
+  pitch: 29.410720825195312
+lastlocation:
+  world: aff81a4b-e969-491c-b15c-a48546ba67b8
+  world-name: SkyPvp
+  x: -13.92169352950035
+  y: 150.5
+  z: 1014.9239791246653
+  yaw: -131.57244873046875
+  pitch: -48.00003433227539
+homes:
+  spawn:
+    world: aff81a4b-e969-491c-b15c-a48546ba67b8
+    world-name: SkyPvp
+    x: 329.47412999677687
+    y: 128.0
+    z: 1051.445337834497
+    yaw: 0.8639432191848755
+    pitch: 53.85000991821289

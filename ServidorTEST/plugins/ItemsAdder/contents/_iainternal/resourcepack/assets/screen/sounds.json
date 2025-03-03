@@ -1,0 +1,8 @@
+{
+  "entity.wolf.howl": {
+    "sounds": [
+      "custom/welcome"
+    ],
+	"replace": true
+  }
+}
