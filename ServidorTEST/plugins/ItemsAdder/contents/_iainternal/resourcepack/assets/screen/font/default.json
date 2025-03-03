@@ -1,0 +1,98 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uE096": -12,
+                "\uE097": -48,
+                "\uE098": -1013,
+                "\uE099": -1536
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-blue.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-blue.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-green.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-orange.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-pink.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-red.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-green.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-orange.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-pink.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-red.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/welcome-screen-black.png",
+            "ascent": 25,
+            "height": 256,
+            "chars": ["\uE110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "welcome/background-black.png",
+            "ascent": 256,
+            "height": 2500,
+            "chars": ["\uE111"]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+cannot-break-with-this-tool: '&cNo peudes romperlo con esta herramienta'
+cannot-repair: '&cEste objeto no puede ser reparado'
+repaired-successfully: '&aObjeto reparado con éxito!'
+cannot-set-durability: '&c¡No se puede establecer la durabilidad!'
+set-durability-successfully: '&a¡Durabilidad establecida con éxito!'
+crafting-no-recipe: '&eNo hay ningún  crafteo disponible para este artículo.'
+given-item: '&aSe ha dado el objeto &e{item} &a a &e{player}'
+removed-item: '&aRemoved item &e{item} &afrom &e{player}'
+lost-item: '&aYou lost item &e{item}'
+item-not-found: '&cEl objeto &3{item} &cno existe'
+items-count: '&bNumero de objetos: &a{count}'
+lore-usages: '&7Usos: {value}'
+model-id: '&bID del modelo: {value}'
+name-config: '&bNombre en la config: '
+no-craft-permission: '&e¡No tienes permiso para craftear este objeto!'
+no-permission: '&c¡No tienes permiso para usar este comando!'
+no-permission-detail: '&cNo tienes el permiso &e{permission}'
+no-permission-short: '&cNo tienes permiso'
+now-playing: '&fEstás escuchando: {value}'
+obtained-item: '&aHas obtenido el objeto &e{item}'
+dropped-item-coords: '&aDropped &e{item} &aat coords {coords}'
+dropped-item-player: '&aDropped &e{item} &aat player {player}'
+player-full-inventory: '&c¡El inventario de este jugador está lleno!'
+player-offline: '&eEste jugador esta desconectado'
+prefix: '[ItemsAdder] '
+resourcepack-error: '&4Se produjo un error al habilitar el paquete de recursos. Porfavor
+  ponte en contacto con los administradores o desactiva los paquetes de recursos.'
+resourcepack-error-failed-download: '&4Failed to download resourcepack. Check your
+  CLIENT log to know the reason.'
+resourcepack-error-failed-reload: '&4Failed to reload/apply resourcepack. There might
+  be an issue with your game or the pack is not compatible.'
+resourcepack-error-discarded: '&4Failed to apply resourcepack. Your game discarded
+  the pack for some reason.'
+resourcepack-error-invalid-url: '&4Failed to apply resourcepack. Invalid URL, contact
+  admins.'
+resourcepack-kick-declined: '&4¡Debes aceptar el paquete de recursos! Asegúrate también
+  de que tienes la opcion activada en ''''Preguntar'''' o '''' Sí '''' en las propiedades
+  del servidor.'
+resourcepack-popup-message: |-
+  &6Welcome &b{player}, &6please accept the resourcepack to enjoy all the amazing features of our server.
+   &aYou need to download it only once.
+wrong-command-usage: '&cUso incorrecto del comando'
+emoji-gui-title: '&3&lLista de emojis'
+fuel-indicator: '&b&lCombustible: {value}/{max}'
+get-from-trade-machine: '&fObtenido de una maquina expendedora'
+ia-button-blocks-populators: '&fInformacion de spawneo del mineral'
+worlds: '&bMundos:'
+info: '&bInfo:'
+chance: '&f   Posibilidad: &7{value}%'
+amount: '&f   Cantidad: &7{value}'
+min-height: '&f   Altura minima: &7{value}'
+max-height: '&f   Altura maxima: &7{value}'
+biome: '&f   Bioma:'
+drops-itself: '&e   Dropea el mismo bloque'
+fuel-item: '    &b{type} &7+{amount}'
+iarecipe-wrong-usage: '&cUso incorrecto del comando. Uso correcto: &e/iarecipe <objeto>&c,
+  &ao manten un objeto en tu mano'
+iarecipe-no-custom-item: '&cEste no es un objeto especial! Porfavor intenta con otro
+  objeto. hand &ao usa este comando: &e/iarecipe <pbjeto>'
+anvil-repair-info: '&fMaterial de reparación de yunque'
+ia-title-menu-categories: '&3&lCategorias'
+ia-button-search: '&fBuscar...'
+ia-button-back: '&fVolver'
+ia-button-next-page: '&fPágina siguiente->'
+ia-button-previous-page: '&f<-Página anterior'
+ia-button-next-recipe: '&fProximo crafteo'
+ia-button-previous-recipe: '&fAnterior crafteo'
+ia-search-results: Resultados de la busqueda
+ia-smeling: '&fFundición'
+ia-smelting: '&fEditar objeto'
+ia-button-get-item: '&fObtener objeto'
+ia-vanilla-type: '&fObjeto Vanilla'
+ia-model-id: '&fID del modelo'
+ia-title-crafting-view: '&fMenu principal'
+player-stat-value-read: '&eValor: &b{value}'
+player-stat-value-write: '&eValor cambiado!'
+player-stat-value-write-bypass: '&cPlayer has bypass permission. &cValue NOT changed'
+player-stat-value-write-bypass-self: '&cYou have bypass permission. &cValue changed
+  anyway because you executed the command on yourself.'
+ia-button-loot-blocks: '&fSe obtiene del bloque'
+ia-button-loot-mobs: '&fSe obtiene del mob'
+ia-button-loot-fishing: '&fSe obtiene pescando'
+ia-button-vehicle-fuel-items: '&eObjetos combutible'
+nbt-rule: '&f   {rule}: &7{value}'
+resourcepack-not-ready: '&6Resourcepack no está listo.'
+tripwires-disabled: '&cTripwires are disabled on this server.'
+font-image-chat-hover: "&fEmoji: {font_image} \nUsage: &7{placeholder} \n\n&eHINT:\
+  \ \n&7You can use the &e/e &7command to send public \nmessages/commands with emojis\
+  \ easier. \nWrite the emoji name and press &eTAB. \n \nExamples: \n&e/e Hello smile\
+  \ \n&7prints &fHello {placeholder} \n \n&e/e /tell Notch Hello smile \n&7sends the\
+  \ command &f/tell Notch Hello {placeholder}"
+ia-button-surface-decorators: '&fSpawn info'
+ia-button-trees-populators: '&fSpawn info'
+cooldown-bossbar-title: '&fCooldown'
